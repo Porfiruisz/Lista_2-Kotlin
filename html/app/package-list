@@ -1,0 +1,32 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.probio2////PointingToDeclaration/app/com.example.probio2/index.html
+$dokka.location:com.example.probio2//main/#/PointingToDeclaration/app/com.example.probio2/main.html
+$dokka.location:com.example.probio2/Baza///PointingToDeclaration/app/com.example.probio2/-baza/index.html
+$dokka.location:com.example.probio2/Baza/Baza/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.probio2/-baza/-baza.html
+$dokka.location:com.example.probio2/Baza/VALID_CHARS/#/PointingToDeclaration/app/com.example.probio2/-baza/-v-a-l-i-d_-c-h-a-r-s.html
+$dokka.location:com.example.probio2/Baza/data/#/PointingToDeclaration/app/com.example.probio2/-baza/data.html
+$dokka.location:com.example.probio2/Baza/findMotif/#kotlin.String/PointingToDeclaration/app/com.example.probio2/-baza/find-motif.html
+$dokka.location:com.example.probio2/Baza/identifier/#/PointingToDeclaration/app/com.example.probio2/-baza/identifier.html
+$dokka.location:com.example.probio2/Baza/length/#/PointingToDeclaration/app/com.example.probio2/-baza/length.html
+$dokka.location:com.example.probio2/Baza/mutate/#kotlin.Int#kotlin.Char/PointingToDeclaration/app/com.example.probio2/-baza/mutate.html
+$dokka.location:com.example.probio2/Baza/toString/#/PointingToDeclaration/app/com.example.probio2/-baza/to-string.html
+$dokka.location:com.example.probio2/DNASequence///PointingToDeclaration/app/com.example.probio2/-d-n-a-sequence/index.html
+$dokka.location:com.example.probio2/DNASequence/DNASequence/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.probio2/-d-n-a-sequence/-d-n-a-sequence.html
+$dokka.location:com.example.probio2/DNASequence/VALID_CHARS/#/PointingToDeclaration/app/com.example.probio2/-d-n-a-sequence/-v-a-l-i-d_-c-h-a-r-s.html
+$dokka.location:com.example.probio2/DNASequence/complement/#/PointingToDeclaration/app/com.example.probio2/-d-n-a-sequence/complement.html
+$dokka.location:com.example.probio2/DNASequence/transcribe/#/PointingToDeclaration/app/com.example.probio2/-d-n-a-sequence/transcribe.html
+$dokka.location:com.example.probio2/ProteinSequence///PointingToDeclaration/app/com.example.probio2/-protein-sequence/index.html
+$dokka.location:com.example.probio2/ProteinSequence/ProteinSequence/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.probio2/-protein-sequence/-protein-sequence.html
+$dokka.location:com.example.probio2/ProteinSequence/VALID_CHARS/#/PointingToDeclaration/app/com.example.probio2/-protein-sequence/-v-a-l-i-d_-c-h-a-r-s.html
+$dokka.location:com.example.probio2/RNASequence///PointingToDeclaration/app/com.example.probio2/-r-n-a-sequence/index.html
+$dokka.location:com.example.probio2/RNASequence/RNASequence/#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.probio2/-r-n-a-sequence/-r-n-a-sequence.html
+$dokka.location:com.example.probio2/RNASequence/VALID_CHARS/#/PointingToDeclaration/app/com.example.probio2/-r-n-a-sequence/-v-a-l-i-d_-c-h-a-r-s.html
+$dokka.location:com.example.probio2/RNASequence/transcribe/#/PointingToDeclaration/app/com.example.probio2/-r-n-a-sequence/transcribe.html
+$dokka.location:com.example.probio2/Wielomian///PointingToDeclaration/app/com.example.probio2/-wielomian/index.html
+$dokka.location:com.example.probio2/Wielomian/Wielomian/#kotlin.collections.List[kotlin.Double]/PointingToDeclaration/app/com.example.probio2/-wielomian/-wielomian.html
+$dokka.location:com.example.probio2/Wielomian/invoke/#kotlin.Double/PointingToDeclaration/app/com.example.probio2/-wielomian/invoke.html
+$dokka.location:com.example.probio2/Wielomian/reprezentacjaTekstowa/#/PointingToDeclaration/app/com.example.probio2/-wielomian/reprezentacja-tekstowa.html
+$dokka.location:com.example.probio2/Wielomian/stopien/#/PointingToDeclaration/app/com.example.probio2/-wielomian/stopien.html
+$dokka.location:com.example.probio2/Wielomian/wyswietlWspolczynniki/#/PointingToDeclaration/app/com.example.probio2/-wielomian/wyswietl-wspolczynniki.html
+com.example.probio2
