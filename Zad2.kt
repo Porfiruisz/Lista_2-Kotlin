@@ -6,8 +6,8 @@ package com.example.probio2
  * Źródła:
  *
  * https://pl.wikipedia.org/wiki/FASTA_format
- * https://www.ncbi.nlm.nih.gov/genbank/sequenceids/
- *
+ * https://en.wikipedia.org/wiki/DNA_and_RNA_codon_tables
+ * https://stackoverflow.com/questions/68437968/how-to-turn-dna-list-sequences-into-protein-sequences-in-python
  *
  * @property identifier Identyfikator sekwencji
  * @property data Sekwencja zasad nukleotydowych
