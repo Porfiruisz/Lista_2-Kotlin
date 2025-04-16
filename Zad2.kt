@@ -10,7 +10,7 @@ package com.example.probio2
  * https://stackoverflow.com/questions/68437968/how-to-turn-dna-list-sequences-into-protein-sequences-in-python
  *
  * @property identifier Identyfikator sekwencji
- * @property data Sekwencja zasad nukleotydowych
+ * @property data Sekwencja zasad
  */
 open class Baza(
     val identifier: String,
@@ -107,7 +107,7 @@ class RNASequence(identifier: String, data: String) : Baza(identifier, data) {
     override val VALID_CHARS = setOf('A', 'U', 'C', 'G')
 
     /**
-     * Translacja sekwencji RNA do sekwencji białkowej.
+     * Translacja sekwencji RNA do sekwencji białkowej
      *
      * @return Obiekt ProteinSequence
      */
@@ -146,7 +146,7 @@ class RNASequence(identifier: String, data: String) : Baza(identifier, data) {
 }
 
 /**
- * Klasa reprezentująca sekwencję białkową (aminokwasową).
+ * Klasa reprezentująca sekwencję białkową
  */
 class ProteinSequence(identifier: String, data: String) : Baza(identifier, data) {
 
