@@ -1,1 +1,1 @@
-Dokumentacja dostępna tu: https://htmlpreview.github.io/?https://github.com/Porfiruisz/Lista_2-Kotlin/blob/main/html/index.html lub poprzez pobranie folderu "html" i otwarcie pliku index.html
+Dokumentacja dostępna tu: https://htmlpreview.github.io/?https://raw.githubusercontent.com/Porfiruisz/Lista_2-Kotlin/main/html/app/com.example.probio2/index.html lub poprzez pobranie folderu "html" i otwarcie pliku index.html
